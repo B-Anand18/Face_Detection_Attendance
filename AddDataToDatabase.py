@@ -13,7 +13,7 @@ data = {
 
     "321654":
         {
-            "name":"Murtaza Hassan",
+            "name":"Murtaz Hassan",
             "major":"Robotics",
             "starting_year":2017,
             "total_attendance":6,
