@@ -3,7 +3,7 @@
 #### Realtime-Face-Detection Attendance 
 
 ## Objective:
-Create a real-time face tracking and attendance system using Python
+Create a real-time face tracking and attendance system using Python.
 
 
 ## Technologies and Libraries:
