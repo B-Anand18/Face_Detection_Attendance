@@ -7,6 +7,7 @@ import face_recognition
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
+c
 from firebase_admin import storage
 from datetime import datetime
 
@@ -36,7 +37,7 @@ for path in modePathList:
 # print(len(imageModeList))
 
 # Load the encoding file
-print("Loading Encode File ...")
+print("Loading Encode file ...")
 file = open('EncodeFile.p', 'rb')
 encodeListKnownWithIds = pickle.load(file)
 file.close()
