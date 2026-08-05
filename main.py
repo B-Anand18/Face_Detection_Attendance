@@ -35,7 +35,7 @@ for path in modePathList:
 
 # print(len(imageModeList))
 
-# Load the encoding file
+# Load the encoding files
 print("Loading Encode File ...")
 file = open('EncodeFile.p', 'rb')
 encodeListKnownWithIds = pickle.load(file)
